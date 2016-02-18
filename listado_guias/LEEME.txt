@@ -1,0 +1,6 @@
+Listado_guias: Archivo principal listadoGuias
+Dependencias: Base de datos v6
+Descripcion: Archivos para cargar el listado de guia y guias_resueltas
+	     solo para ver la estructura de los archivos, para probar la pagina pueden descargarla de aqui
+
+http://www.mediafire.com/download/qvcmwmgncmg1be9/listado_guias.rar
